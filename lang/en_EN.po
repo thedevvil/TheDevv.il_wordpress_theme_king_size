@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KingSize WordPress v4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-22 01:08-0700\n"
+"PO-Revision-Date: 2012-08-22 01:08-0700\n"
+"Last-Translator: Bryce Wisekal <bryce@ourwebmedia.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12
+msgid "Sorry! This page was not found."
+msgstr ""
+
+#: ../404.php:20
+msgid "The page you're looking for isn't available..."
+msgstr ""
+
+#: ../404.php:22
+msgid "We're very sorry for the inconvenience but the page you are looking for either no longer exists or has been moved. Try using the below search box or site index to locate what you're looking for."
+msgstr ""
+
+#: ../404.php:24
+msgid "Search can help"
+msgstr ""
+
+#: ../404.php:25
+msgid "Please try searching using the search form below."
+msgstr ""
+
+#: ../404.php:32
+msgid "Site Map"
+msgstr ""
+
+#: ../404.php:37
+msgid "Categories"
+msgstr ""
+
+#: ../404.php:42
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:32
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../comments.php:42
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../comments.php:42
+#: ../comments.php:59
+msgid "(Edit)"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Pingback:"
+msgstr ""
+
+#: ../comments.php:69
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:92
+#: ../comments.php:111
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:93
+#: ../comments.php:112
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../functions.php:116
+msgid "Main Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:118
+msgid "The main WordPress sidebar."
+msgstr ""
+
+#: ../functions.php:126
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: ../functions.php:128
+msgid "Ideal for additional contact details, displayed as the Sidebar on the Contact Page. Can be used for anything."
+msgstr ""
+
+#: ../functions.php:136
+msgid "Footer - Left"
+msgstr ""
+
+#: ../functions.php:138
+msgid "The first footer widget area."
+msgstr ""
+
+#: ../functions.php:146
+msgid "Footer - Center"
+msgstr ""
+
+#: ../functions.php:148
+msgid "The second footer widget area."
+msgstr ""
+
+#: ../functions.php:156
+msgid "Footer - Right"
+msgstr ""
+
+#: ../functions.php:158
+msgid "The third footer widget area."
+msgstr ""
+
+#: ../functions.php:199
+msgid "Header Navigation"
+msgstr ""
+
+#: ../functions.php:272
+msgid "Content is password protected. Please enter password:"
+msgstr ""
+
+#: ../functions.php:273
+msgid "Password"
+msgstr ""
+
+#: ../functions.php:304
+#, php-format
+msgid "View all items filed under %s"
+msgstr ""
+
+#: ../functions.php:320
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../header.php:237
+msgid "Hide the navigation"
+msgstr ""
+
+#: ../header.php:238
+msgid "Show the navigation"
+msgstr ""
+
+#: ../loop.php:99
+msgid "Nothing found. Please try using the below search box or site index to locate what you're looking for."
+msgstr ""
+
+#: ../loop.php:122
+#: ../loop.php:131
+#: ../portfolio-list.php:128
+msgid "Older entries"
+msgstr ""
+
+#: ../loop.php:125
+#: ../loop.php:134
+#: ../portfolio-list.php:131
+msgid "Newer entries"
+msgstr ""
+
+#: ../searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../single-portfolio.php:45
+#: ../single-portfolio.php:48
+#: ../single.php:69
+msgid "Tags: "
+msgstr ""
+
+#: ../template-blog.php:115
+#: ../template-blog.php:124
+msgid "&larr; Older entries"
+msgstr ""
+
+#: ../template-blog.php:118
+msgid "Newer entries &rarr; "
+msgstr ""
+
+#: ../template-blog.php:127
+msgid "&Newer entries &rarr; "
+msgstr ""
+
+#: ../template-contact.php:27
+msgid "Name"
+msgstr ""
+
+#: ../template-contact.php:30
+msgid "E-mail"
+msgstr ""
+
+#: ../template-contact.php:33
+msgid "Message"
+msgstr ""
+
+#: ../template-contact.php:36
+msgid "Send message"
+msgstr ""
+
+#: ../template-contact.php:52
+msgid "Thank you for contacting us! Your message has been successfully delivered and we will be getting in touch real soon!"
+msgstr ""
+
+#: ../template-portfolio.php:188
+msgid " &larr; Older entries"
+msgstr ""
+
+#: ../template-portfolio.php:191
+msgid "Newer entries &rarr;"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:456
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:516
+msgid "Upload"
+msgstr ""
+
+#: ../admin/front-end/options.php:48
+#: ../admin/front-end/options.php:72
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:73
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../lib/custom.lib.php:187
+msgid "Page"
+msgstr ""
+
+#: ../lib/theme-page-custom-fields.php:87
+msgid "These below settings are for controlling the page option."
+msgstr ""
+
+#: ../lib/theme-post-custom-fields.php:64
+msgid "Want to apply a unique background to this specific post? You can upload or insert the URL of the image you want here."
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:9
+msgid "Galleries"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:12
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:13
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:14
+msgid "New Gallery"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:15
+msgid "View Gallery"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:16
+msgid "Search Galleries"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:17
+msgid "No galleries found"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:18
+msgid "No galleries found in Trash"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:27
+#: ../lib/gallery/gallery-posttype.php:36
+msgid "galleries"
+msgstr ""
+
+#: ../lib/gallery/gallery-posttype.php:44
+msgid "POST ID"
+msgstr ""
+
+#: ../lib/gallery-widget/GalleryWidgetObject.php:17
+msgid "A gallery of images that are attached to your posts"
+msgstr ""
+
+#: ../lib/gallery-widget/GalleryWidgetObject.php:18
+msgid "KingSize Gallery Widget"
+msgstr ""
+
+#: ../lib/gallery-widget/GalleryWidgetObject.php:87
+msgid "Title:"
+msgstr ""
+
+#: ../lib/gallery-widget/GalleryWidgetObject.php:89
+msgid "How many images:"
+msgstr ""
+
+#: ../lib/gallery-widget/GalleryWidgetObject.php:92
+msgid "Order by:"
+msgstr ""
+
+#: ../lib/gallery-widget/GalleryWidgetObject.php:105
+msgid "Image Link type*:"
+msgstr ""
+
+#: ../lib/gallery-widget/GalleryWidgetObject.php:117
+msgid "Image Hover Title*:"
+msgstr ""
+
+#: ../lib/gallery-widget/GalleryWidgetObject.php:129
+msgid "Show only 1 image per post*:"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-functions.php:28
+msgid "Sorry that seems to be an invalid <strong>YouTube</strong> URL. Please check it again."
+msgstr ""
+
+#: ../lib/portfolio/portfolio-functions.php:41
+msgid "Sorry that seems to be an invalid <strong>Vimeo</strong> URL. Please check it again. Make sure there is a string of numbers at the end."
+msgstr ""
+
+#: ../lib/portfolio/portfolio-functions.php:47
+msgid "Sorry that is an invalid YouTube or Vimeo URL."
+msgstr ""
+
+#: ../lib/portfolio/portfolio-meta.php:154
+msgid "If you are using YouTube or Vimeo, enter in the URL. To adjust Width and Height of your videos, ie., add \"<b>&width=700&height=800</b>\" to the end of the Youtube / Vimeo URL."
+msgstr ""
+
+#: ../lib/portfolio/portfolio-meta.php:161
+msgid "If you are using something other than YouTube or Vimeo, paste the embed code here. To remove, you would simply erase the entire contents of this box and now save."
+msgstr ""
+
+#: ../lib/portfolio/portfolio-meta.php:194
+msgid "<strong>Not for the Use of Videos</strong> - This is the thumbnail used for Photo / Image Portfolio Items. Browse your desktop now to select a desired image."
+msgstr ""
+
+#: ../lib/portfolio/portfolio-meta.php:234
+msgid "Here you will be able to setup various options pertaining specifically to your single Portfolio Item, such as Read More Text and Link, Background Image..."
+msgstr ""
+
+#: ../lib/portfolio/portfolio-meta.php:300
+msgid "These settings are specific to Video Portfolio items and <strong>not for the use Image/Photo Portfolio items</strong>. Use these settings to define the Video used along with Thumbnail."
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:9
+#: ../lib/portfolio/portfolio-posttype.php:10
+msgid "Portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:12
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:13
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:14
+msgid "New Portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:15
+msgid "View Portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:16
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:17
+msgid "No portfolios found"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:18
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:27
+#: ../lib/portfolio/portfolio-posttype.php:36
+#: ../lib/portfolio/portfolio-posttype.php:43
+#: ../lib/portfolio/portfolio-posttype.php:47
+msgid "portfolio"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:43
+#: ../lib/portfolio/portfolio-posttype.php:67
+msgid "portfolio-category"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:43
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:47
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:47
+msgid "Add New Portfolio Tags"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:47
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:55
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: ../lib/portfolio/portfolio-posttype.php:56
+#: ../lib/portfolio/portfolio-posttype.php:66
+#: ../lib/slider/slider-posttype.php:52
+#: ../lib/slider/slider-posttype.php:62
+msgid "type"
+msgstr ""
+
+#: ../lib/slider/slider-meta.php:51
+msgid "To customize your Slider Options, go to \"Appearance > KingSize Options > Home Settings\". To attach an image, use the \"Featured Image\" option and assign your slider image. Each Slide Post created acts as an individual Slider Image. Within the write-panel you may include a Custom Link and Custom Link text (default says \"Learn More\") if you wish to link your slider items to another page."
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:9
+#: ../lib/slider/slider-posttype.php:10
+msgid "Slider"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:12
+msgid "Add New Slider"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:13
+msgid "Edit Slider"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:14
+msgid "New Slider"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:15
+msgid "View Slider"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:16
+msgid "Search Slider"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:17
+msgid "No sliders found"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:18
+msgid "No sliders found in Trash"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:27
+#: ../lib/slider/slider-posttype.php:36
+#: ../lib/slider/slider-posttype.php:43
+msgid "slider"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:43
+#: ../lib/slider/slider-posttype.php:63
+msgid "slider-category"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:43
+msgid "Slider Categories"
+msgstr ""
+
+#: ../lib/slider/slider-posttype.php:51
+msgid "Slider Item Title"
+msgstr ""
+
+#: ../lib/tinymce/tinymce_fnc_options.php:11
+msgid "You are not allowed"
+msgstr ""
+
